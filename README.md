@@ -1,6 +1,7 @@
 # Graph-Games
 
-Above is a simple game for learning some basics of Graph Theory, made by me in collaboration with Ridwan Syed.
+Above is a simple game for learning some basics of Graph Theory, made by Ridwan
+Syed and I.
 
 Here are some additional notes:
 
